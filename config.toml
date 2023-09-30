@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 build-mode = "apk"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = "custom-branding"                                                 # space-seperated patches to include (non-excluded patches are included by default)
-version = "latest"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
+version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended]
@@ -18,7 +18,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
@@ -34,7 +34,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 [Music]
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-arch = "both"
+apkmirror-arch = "apk"
 
 [Twitter]
 build-mode = "apk"
