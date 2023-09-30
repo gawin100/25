@@ -8,28 +8,6 @@
         "value": "YoutubeKawin"
       }
     ]
-  },
-  {
-    "patchName": "Custom package name",
-    "options": [
-      {
-        "key": "YouTubePackageName",
-        "value": "YoutubeKawin"
-      },
-      {
-        "key": "MusicPackageName",
-        "value": "YoutubeKawin"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding YouTube name",
-    "options": [
-      {
-        "key": "YouTubeAppName",
-        "value": "YoutubeKawin"
-      }
-    ]
   }
 ]
         
