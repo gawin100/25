@@ -1,12 +1,12 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
 # ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/revanced_n)
+[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/kawinpattanai/25/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Get the [latest CI release](https://github.com/kawinpattanai/25/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
@@ -32,7 +32,7 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 [**See the list of patches**](https://j-hc.github.io/rvmm-config-gen/)
 
  * Star the repo :eyes:
- * [Fork the repo](https://github.com/j-hc/revanced-magisk-module/fork) or use it as a template
+ * [Fork the repo](https://github.com/kawinpattanai/25/fork) or use it as a template
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
